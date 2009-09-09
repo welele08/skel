@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="pixmap" mtime="1229722313" schema="/schemas/apps/drivemount-applet/prefs/pixmap"/>
+        <entry name="interval" mtime="1229722313" schema="/schemas/apps/drivemount-applet/prefs/interval"/>
+        <entry name="mount_point" mtime="1229722313" schema="/schemas/apps/drivemount-applet/prefs/mount_point"/>
+        <entry name="auto_eject" mtime="1229722313" schema="/schemas/apps/drivemount-applet/prefs/auto_eject"/>
+        <entry name="scale" mtime="1229722313" schema="/schemas/apps/drivemount-applet/prefs/scale"/>
+        <entry name="autofs_friendly" mtime="1229722313" schema="/schemas/apps/drivemount-applet/prefs/autofs_friendly"/>
+</gconf>

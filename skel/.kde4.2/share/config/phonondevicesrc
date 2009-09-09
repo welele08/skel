@@ -1,0 +1,32 @@
+[AudioDevice_pci:8086:2415:8086:0000:0:capture]
+cardName=Intel 82801AA-ICH with STAC9700,83,84 (Intel 82801AA-ICH)
+deleted=false
+deviceNumber=0
+hotpluggable=false
+iconName=audio-card
+index=-2
+initialPreference=36
+isAdvanced=false
+
+[AudioDevice_pci:8086:2415:8086:0000:0:playback]
+cardName=Intel 82801AA-ICH with STAC9700,83,84 (Intel 82801AA-ICH)
+deleted=false
+deviceNumber=0
+hotpluggable=false
+iconName=audio-card
+index=-1
+initialPreference=36
+isAdvanced=false
+
+[AudioDevice_pci:8086:2415:8086:0000:1:capture]
+cardName=Intel 82801AA-ICH with STAC9700,83,84 (Intel 82801AA-ICH - MIC ADC)
+deleted=false
+deviceNumber=1
+hotpluggable=false
+iconName=audio-card
+index=-3
+initialPreference=35
+isAdvanced=true
+
+[Globals]
+nextIndex=4

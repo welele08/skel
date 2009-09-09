@@ -1,0 +1,18 @@
+[General]
+SessionName=Default
+SaveOnExit=true
+AutoSave=false
+PromptOnLogout=true
+DisableTcp=true
+
+[Compatibility]
+LanchGnome=false
+LaunchKDE=false
+LaunchGnome=true
+
+[Chooser]
+AlwaysDisplay=false
+
+[Splash Screen]
+Engine=
+

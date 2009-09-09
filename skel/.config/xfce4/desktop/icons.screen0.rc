@@ -1,0 +1,68 @@
+[NVIDIA X Server Settings]
+row=1
+col=1
+
+[Second Life]
+row=2
+col=1
+
+[Install on Disk]
+row=0
+col=2
+
+[Picasa]
+row=4
+col=0
+
+[Mozilla Firefox]
+row=5
+col=0
+
+[Donate Funds to the Project]
+row=6
+col=0
+
+[sauerbraten]
+row=4
+col=1
+
+[GParted]
+row=0
+col=1
+
+[Battle for Wesnoth]
+row=5
+col=1
+
+[CompizConfig Settings Manager]
+row=7
+col=0
+
+[Nexuiz (GLX)]
+row=3
+col=1
+
+[Get Live Help]
+row=7
+col=1
+
+[Google Earth]
+row=6
+col=1
+
+[Sabayon Linux x86]
+row=0
+col=0
+
+[File System]
+row=3
+col=0
+
+[Home]
+row=2
+col=0
+
+[Trash]
+row=1
+col=0
+

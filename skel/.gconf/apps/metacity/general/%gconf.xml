@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="titlebar_font" mtime="1244414148" type="string">
+		<stringvalue>DejaVu Sans Bold Semi-Condensed 9</stringvalue>
+	</entry>
+	<entry name="theme" mtime="1244414091" type="string">
+		<stringvalue>MurrineCleanGlass</stringvalue>
+	</entry>
+</gconf>

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Install on Disk
+Exec=/opt/anaconda/anaconda
+GenericName=Gentoo Linux Installer
+GenericName[en_US]=Gentoo Linux Installer
+Icon=media-optical
+MimeType=;
+Name[en_US]=Install on Disk
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

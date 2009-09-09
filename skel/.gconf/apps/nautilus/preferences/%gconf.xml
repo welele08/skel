@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="media_automount_open" mtime="1212960090" type="bool" value="false"/>
+	<entry name="media_automount" mtime="1212960081" type="bool" value="false"/>
+	<entry name="enable_delete" mtime="1212959535" type="bool" value="true"/>
+	<entry name="navigation_window_saved_maximized" mtime="1244413998" type="bool" value="false"/>
+	<entry name="navigation_window_saved_geometry" mtime="1244413998" type="string">
+		<stringvalue>800x550+172+125</stringvalue>
+	</entry>
+	<entry name="always_use_browser" mtime="1212958817" type="bool" value="true"/>
+	<entry name="desktop_font" mtime="1244414144" type="string">
+		<stringvalue>DejaVu Sans Semi-Condensed 9</stringvalue>
+	</entry>
+</gconf>

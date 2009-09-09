@@ -1,0 +1,45 @@
+[3.3]
+libraryPath=/home/sabayonuser/.kde/lib/kde3/plugins/:/home/sabayonuser/.kde/lib64/kde3/plugins/:/usr/kde/3.5/lib64/kde3/plugins/:/usr/kde/3.5/lib64/kde3/plugins/:/usr/lib/kde3/plugins/:/usr/qt/3/bin
+
+[Font Substitutions]
+arial=helvetica^e
+helv=helvetica^e
+tms rmn=times^e
+
+[General]
+GUIEffects=general^efademenu^eanimatecombo^efadetooltip^e
+XIMInputStyle=On The Spot
+cursorFlashTime=1000
+doubleClickInterval=400
+embedFonts=true
+enableXft=true
+font=DejaVu Sans,10,-1,5,50,0,0,0,0,0
+fontPath=\0
+globalStrut=0^e0^e
+resolveSymlinks=true
+style=polyester
+useRtlExtensions=false
+useXft=true
+wheelScrollLines=3
+
+[KDE]
+contrast=7
+kdeAddedLibraryPaths=/home/sabayonuser/.kde/lib/kde3/plugins/^e/home/sabayonuser/.kde/lib64/kde3/plugins/^e/usr/kde/3.5/lib64/kde3/plugins/^e/usr/kde/3.5/lib64/kde3/plugins/^e/usr/lib/kde3/plugins/^e
+
+[KWinPalette]
+activeBackground=#0989f2
+activeBlend=#0989f2
+activeForeground=#ffffff
+activeTitleBtnBg=#c8caff
+frame=#f3f4f4
+inactiveBackground=#939393
+inactiveBlend=#000000
+inactiveForeground=#ffffff
+inactiveFrame=#f5f5f5
+inactiveTitleBtnBg=#cacaca
+
+[Palette]
+active=#000000^e#f0f8ff^e#ffffff^e#ffffff^e#5a5a5a^e#d2d2d2^e#000000^e#ffffff^e#000000^e#fcfcfc^e#fdfdfd^e#000000^e#0b99cc^e#ffffff^e#3090ab^e#175e8e^e
+disabled=#808080^e#f0f8ff^e#ffffff^e#ffffff^e#5a5a5a^e#d2d2d2^e#d2d2d2^e#ffffff^e#808080^e#fcfcfc^e#fdfdfd^e#000000^e#097faa^e#ffffff^e#3090ab^e#175e8e^e
+inactive=#000000^e#f0f8ff^e#ffffff^e#ffffff^e#5a5a5a^e#d2d2d2^e#000000^e#ffffff^e#000000^e#fcfcfc^e#fdfdfd^e#000000^e#0b99cc^e#ffffff^e#3090ab^e#175e8e^e
+

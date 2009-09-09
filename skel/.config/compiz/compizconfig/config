@@ -1,0 +1,13 @@
+[kde_session]
+backend = ini
+profile = 
+integration = true
+plugin_list_autosort = true
+
+[gnome_session]
+profile = 
+
+[general]
+profile = 
+integration = true
+

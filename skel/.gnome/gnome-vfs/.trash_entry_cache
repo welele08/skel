@@ -1,0 +1,9 @@
+/mnt/dati -
+/dev -
+/dev/shm -
+/install-data/games-changes -
+/lib/modules/2.6.24-sabayon/video -
+/lib/splash/cache -
+/usr/lib/opengl/ati -
+/usr/lib/opengl/nvidia -
+/media/disk -

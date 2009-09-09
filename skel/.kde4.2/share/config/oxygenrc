@@ -1,0 +1,8 @@
+[Style]
+DrawToolBarItemSeparator=true
+DrawTriangularExpander=false
+
+[Windeco]
+BlendTitlebarColors=true
+ShowStripes=true
+TitleAlignment=Left
