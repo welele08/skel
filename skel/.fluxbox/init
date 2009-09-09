@@ -40,7 +40,6 @@ session.screen0.tabs.usePixmap:	false
 session.screen0.strftimeFormat:	%k:%M
 session.screen0.imageDither:	false
 session.screen0.decorateTransient:	false
-session.screen0.rootCommand:	display -backdrop -window root /usr/share/backgrounds/sabayonlinux.png
 session.screen0.colPlacementDirection:	TopToBottom
 session.screen0.workspacewarping:	true
 session.screen0.focusModel:	ClickFocus
