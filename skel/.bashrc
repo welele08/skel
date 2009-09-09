@@ -16,3 +16,6 @@ fi
 
 
 # Put your fun stuff here.
+
+# Python 2.x autocompletion
+export PYTHONSTARTUP=~/.pystartup
