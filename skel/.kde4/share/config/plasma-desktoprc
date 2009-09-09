@@ -12,6 +12,10 @@ Height 900=450
 Recent Files[$e]=sabayonlinux.png,/usr/share/backgrounds/sabayonlinux.png
 Width 1440=700
 
+[KPropertiesDialog]
+Height 768=385
+Width 1024=405
+
 [PlasmaAppletBrowserDialog]
 Height 900=599
 Width 1440=404
@@ -20,9 +24,6 @@ Width 1440=404
 Alignment=132
 Offset=0
 panelVisibility=0
-
-[Theme]
-name=Elegance
 
 [ViewIds]
 1=1

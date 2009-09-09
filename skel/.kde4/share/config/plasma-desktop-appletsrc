@@ -1,8 +1,11 @@
+[$Version]
+update_info=plasma_popupapplet_fix_groups.upd:PlasmaPopupAppletFixGroups1
+
 [Containments][1]
 activity=
 desktop=0
 formfactor=0
-geometry=0,0,1440,900
+geometry=0,0,1024,768
 immutability=1
 location=0
 plugin=desktop
@@ -20,7 +23,7 @@ immutability=1
 location=0
 plugin=folderview
 screen=-1
-zvalue=2
+zvalue=7
 
 [Containments][1][Applets][2][Configuration]
 activity=
@@ -46,7 +49,7 @@ wallpaperposition=0
 activity=
 desktop=-1
 formfactor=2
-geometry=0,-42,1440,36
+geometry=0,-42,1024,36
 immutability=1
 location=4
 plugin=panel
@@ -54,7 +57,7 @@ screen=0
 zvalue=150
 
 [Containments][3][Applets][10]
-geometry=1386,4,32,32
+geometry=970,4,32,32
 immutability=1
 plugin=networkmanagement
 zvalue=0
@@ -79,37 +82,68 @@ plugin=notifier
 zvalue=0
 
 [Containments][3][Applets][6]
-geometry=72,4,50,32
+geometry=72,4,45,32
 immutability=1
 plugin=pager
 zvalue=0
 
 [Containments][3][Applets][7]
-geometry=126,4,1076,32
+geometry=121,4,637,32
 immutability=1
 plugin=tasks
 zvalue=0
 
 [Containments][3][Applets][8]
-geometry=1206,4,108,32
+geometry=762,4,136,32
 immutability=1
 plugin=systemtray
 zvalue=0
+
+[Containments][3][Applets][8][Configuration][ExtenderItems][1]
+extenderIconName=
+extenderItemName=jobGroup
+extenderItemPosition=0
+extenderTitle=
+isGroup=true
+sourceAppletId=8
+sourceAppletPluginName=systemtray
+
+[Containments][3][Applets][8][Configuration][ExtenderItems][2]
+extenderIconName=
+extenderItemName=completedJobsGroup
+extenderItemPosition=0
+extenderTitle=0 Recently Completed Jobs:
+groupCollapsed=false
+isGroup=true
+sourceAppletId=8
+sourceAppletPluginName=systemtray
 
 [Containments][3][Applets][8][Configuration][PopupApplet]
 DialogHeight=11
 DialogWidth=0
 
+[Containments][3][Applets][8][PopupApplet]
+DialogHeight=86
+DialogWidth=426
+
 [Containments][3][Applets][9]
-geometry=1318,4,64,32
+geometry=902,4,64,32
 immutability=1
 plugin=digital-clock
 zvalue=0
+
+[Containments][3][Applets][9][Configuration][ExtenderItems][3]
+extenderIconName=view-pim-calendar
+extenderItemName=calendar
+extenderItemPosition=0
+extenderTitle=Calendar
+sourceAppletId=9
+sourceAppletPluginName=digital-clock
 
 [Containments][3][Applets][9][Configuration][PopupApplet]
 DialogHeight=271
 DialogWidth=256
 
 [Containments][3][Configuration]
-maximumSize=1440,36
-minimumSize=1440,36
+maximumSize=1024,36
+minimumSize=1024,36

@@ -142,9 +142,9 @@ volumeRCapture=0
 is_muted=false
 is_recsrc=false
 name=PCM
-volumeL=22
+volumeL=23
 volumeLCapture=0
-volumeR=22
+volumeR=23
 volumeRCapture=0
 
 [MixerALSA::Intel_82801AA-ICH:1.DevPCM_Out_Path_&_Mute:0]
@@ -206,6 +206,15 @@ volumeRCapture=0
 is_muted=true
 is_recsrc=false
 name=Sigmatel Surround Phase Inversion Playback\s
+volumeL=0
+volumeLCapture=0
+volumeR=0
+volumeRCapture=0
+
+[MixerALSA::Intel_82801AA-ICH:1.DevSurround_Phase_Inversion:0]
+is_muted=false
+is_recsrc=false
+name=Surround Phase Inversion
 volumeL=0
 volumeLCapture=0
 volumeR=0

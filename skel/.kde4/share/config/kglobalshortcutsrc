@@ -1,20 +1,9 @@
 [$Version]
-update_info=kdedglobalaccel_kde42.upd:remove_kde_global_shortcuts,kwin_window_shortcuts.upd:kde414
-
-[khotkeys]
-_k_friendly_name=
-{08c36870-8f2a-4588-ab84-b6dde7bba148}=Ctrl+Alt+H,none,Type 'Hello'
-{5d4c7fc7-8c14-4a88-853e-3cd20705b539}=Print,none,PrintScreen
-{72346ea2-07df-4c9e-b50a-201c1fc82361}=Ctrl+Alt+B,none,Next in XMMS
-{7ffce56a-4f51-41bf-92fc-bf9b8d537270}=Ctrl+Alt+I,none,Activate KSIRC Window
-{8a1e1324-8c75-460b-82d5-6a63b89d0f16}=Meta+E,none,Go to KDE Website
-{c3a3781c-05db-425e-b445-b5ed9326e9ce}=Ctrl+W,none,Remap Ctrl+W to Ctrl+F4 in Qt Designer
-{da9c6fbb-ad0d-442c-8d02-14bd0a63f992}=Ctrl+Alt+T,none,Run Konsole
-{fcf102f1-6663-45bf-a50c-474ac85fac08}=Ctrl+Alt+W,none,Perform D-Bus call 'kdesktop KDesktopIface popupExecuteCommand()'
+update_info=kdedglobalaccel_kde42.upd:remove_kde_global_shortcuts,kwin_window_shortcuts.upd:kde414,plasma-to-plasmadesktop-shortcuts.upd:4.3plasma-desktop-shortcuts
 
 [klipper]
 _k_friendly_name=Klipper
-clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,Enable/Disable Clipboard Actions
+clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,Enable Clipboard Actions
 repeat_action=Ctrl+Alt+R,Ctrl+Alt+R,Manually Invoke Action on Current Clipboard
 show_klipper_popup=Ctrl+Alt+V,Ctrl+Alt+V,Show Klipper Popup-Menu
 
@@ -39,6 +28,7 @@ Decrease volume  - Sigmatel 4-Speaker Stereo, Intel 82801AA-ICH=none,none,Decrea
 Decrease volume  - Sigmatel ADC 6dB Attenuate, Intel 82801AA-ICH=none,none,Decrease Volume - Sigmatel ADC 6dB Attenuate\\, Intel 82801AA-ICH
 Decrease volume  - Sigmatel DAC 6dB Attenuate, Intel 82801AA-ICH=none,none,Decrease Volume - Sigmatel DAC 6dB Attenuate\\, Intel 82801AA-ICH
 Decrease volume  - Sigmatel Surround Phase Inversion Playback , Intel 82801AA-ICH=none,none,Decrease Volume - Sigmatel Surround Phase Inversion Playback \\, Intel 82801AA-ICH
+Decrease volume  - Surround Phase Inversion, Intel 82801AA-ICH=none,none,Decrease Volume - Surround Phase Inversion\\, Intel 82801AA-ICH
 Decrease volume  - Video, Intel 82801AA-ICH=none,none,Decrease Volume - Video\\, Intel 82801AA-ICH
 Increase volume  - 3D Control - Switch, Intel 82801AA-ICH=none,none,Increase Volume - 3D Control - Switch\\, Intel 82801AA-ICH
 Increase volume  - 3D Control Sigmatel - Depth, Intel 82801AA-ICH=none,none,Increase Volume - 3D Control Sigmatel - Depth\\, Intel 82801AA-ICH
@@ -60,6 +50,7 @@ Increase volume  - Sigmatel 4-Speaker Stereo, Intel 82801AA-ICH=none,none,Increa
 Increase volume  - Sigmatel ADC 6dB Attenuate, Intel 82801AA-ICH=none,none,Increase Volume - Sigmatel ADC 6dB Attenuate\\, Intel 82801AA-ICH
 Increase volume  - Sigmatel DAC 6dB Attenuate, Intel 82801AA-ICH=none,none,Increase Volume - Sigmatel DAC 6dB Attenuate\\, Intel 82801AA-ICH
 Increase volume  - Sigmatel Surround Phase Inversion Playback , Intel 82801AA-ICH=none,none,Increase Volume - Sigmatel Surround Phase Inversion Playback \\, Intel 82801AA-ICH
+Increase volume  - Surround Phase Inversion, Intel 82801AA-ICH=none,none,Increase Volume - Surround Phase Inversion\\, Intel 82801AA-ICH
 Increase volume  - Video, Intel 82801AA-ICH=none,none,Increase Volume - Video\\, Intel 82801AA-ICH
 Toggle mute  - 3D Control - Switch, Intel 82801AA-ICH=none,none,Toggle Mute - 3D Control - Switch\\, Intel 82801AA-ICH
 Toggle mute  - 3D Control Sigmatel - Depth, Intel 82801AA-ICH=none,none,Toggle Mute - 3D Control Sigmatel - Depth\\, Intel 82801AA-ICH
@@ -81,6 +72,7 @@ Toggle mute  - Sigmatel 4-Speaker Stereo, Intel 82801AA-ICH=none,none,Toggle Mut
 Toggle mute  - Sigmatel ADC 6dB Attenuate, Intel 82801AA-ICH=none,none,Toggle Mute - Sigmatel ADC 6dB Attenuate\\, Intel 82801AA-ICH
 Toggle mute  - Sigmatel DAC 6dB Attenuate, Intel 82801AA-ICH=none,none,Toggle Mute - Sigmatel DAC 6dB Attenuate\\, Intel 82801AA-ICH
 Toggle mute  - Sigmatel Surround Phase Inversion Playback , Intel 82801AA-ICH=none,none,Toggle Mute - Sigmatel Surround Phase Inversion Playback \\, Intel 82801AA-ICH
+Toggle mute  - Surround Phase Inversion, Intel 82801AA-ICH=none,none,Toggle Mute - Surround Phase Inversion\\, Intel 82801AA-ICH
 Toggle mute  - Video, Intel 82801AA-ICH=none,none,Toggle Mute - Video\\, Intel 82801AA-ICH
 _k_friendly_name=KMix
 decrease_volume=Volume Down,Volume Down,Decrease Volume
@@ -213,8 +205,9 @@ _k_friendly_name=KWin
 
 [kxkb]
 Switch to Next Keyboard Layout=Ctrl+Alt+K,Ctrl+Alt+K,Switch to Next Keyboard Layout
-_k_friendly_name=KDE Keyboard Layout Switcher
+_k_friendly_name=
 
-[plasma]
+[plasma-desktop]
 Show Dashboard=Ctrl+F12,Ctrl+F12,Show Dashboard
 _k_friendly_name=Plasma Workspace
+activate widget 4=Alt+F1,Alt+F1,Activate Application Launcher Widget

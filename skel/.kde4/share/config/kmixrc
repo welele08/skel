@@ -104,6 +104,10 @@ Split=false
 Show=false
 Split=false
 
+[View.Base.ALSA::Intel_82801AA-ICH:1.Surround_Phase_Inversion:0]
+Show=true
+Split=false
+
 [View.Base.ALSA::Intel_82801AA-ICH:1.Video:0]
 Show=false
 Split=false

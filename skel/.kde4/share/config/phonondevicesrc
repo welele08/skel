@@ -26,7 +26,7 @@ hotpluggable=false
 iconName=audio-card
 index=-3
 initialPreference=35
-isAdvanced=true
+isAdvanced=false
 
 [Globals]
 nextIndex=4

@@ -1,5 +1,5 @@
 [Favorites]
-FavoriteURLs=/usr/kde/4.2/share/applications/kde4/konqbrowser.desktop,/usr/kde/4.2/share/applications/kde4/dolphin.desktop,/usr/share/applications/sulfur.desktop,/usr/share/applications/writer.desktop,/usr/share/applications/calc.desktop,/usr/share/applications/impress.desktop,/usr/share/sabayon/xdg/applications/sabayon-homepage.desktop
+FavoriteURLs=/usr/share/applications/mozilla-firefox-3.5.desktop,/usr/share/applications/kde4/kopete.desktop,/usr/share/applications/kde4/ktorrent.desktop,/usr/share/applications/kde4/konversation.desktop,/usr/share/applications/kde4/amarok.desktop,/usr/share/applications/vlc.desktop,/usr/share/applications/writer.desktop,/usr/share/applications/calc.desktop
 
 [RecentlyUsed]
 Applications=
