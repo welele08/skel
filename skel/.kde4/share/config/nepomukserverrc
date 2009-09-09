@@ -5,6 +5,6 @@ Configured repositories=main
 autostart=false
 
 [main Settings]
-Storage Dir[$e]=$HOME/.kde4.2/share/apps/nepomuk/repository/main/
+Storage Dir[$e]=$HOME/.kde4/share/apps/nepomuk/repository/main/
 Used Soprano Backend=redland
 rebuilt index for type indexing=true
