@@ -11,4 +11,4 @@ style "user-font"
 widget_class "*" style "user-font"
 
 gtk-theme-name="Clearlooks"
-gtk-font-name="DejaVu Sans 8"
+gtk-font-name="DejaVu Sans 9"
