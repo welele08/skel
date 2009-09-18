@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <gconf>
 	<entry name="use_theme_colors" mtime="1245070410" type="bool" value="false"/>
-	<entry name="background_darkness" mtime="1245070400" type="float" value="0.13107770681381226"/>
+	<entry name="background_darkness" mtime="1245070400" type="float" value="0.80107770681381226"/>
 	<entry name="background_type" mtime="1245070400" type="string">
 		<stringvalue>transparent</stringvalue>
 	</entry>
