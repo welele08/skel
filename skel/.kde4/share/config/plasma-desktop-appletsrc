@@ -56,16 +56,6 @@ plugin=panel
 screen=0
 zvalue=150
 
-[Containments][3][Applets][10]
-geometry=970,4,32,32
-immutability=1
-plugin=networkmanagement
-zvalue=0
-
-[Containments][3][Applets][10][Configuration][PopupApplet]
-DialogHeight=232
-DialogWidth=334
-
 [Containments][3][Applets][4]
 geometry=0,4,32,32
 immutability=1
