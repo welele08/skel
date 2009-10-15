@@ -91,17 +91,20 @@ ForegroundPositive=0,110,40
 ForegroundVisited=100,74,155
 
 [General]
+BrowserApplication[$e]=!firefox
+UseSystemBell=false
 XftAntialias=true
-XftHintStyle=hintmedium
+XftHintStyle=hintfull
 XftSubPixel=rgb
-desktopFont=DejaVu Sans,9,-1,5,50,0,0,0,0,0
-fixed=DejaVu Sans Mono,9,-1,5,50,0,0,0,0,0
-font=DejaVu Sans,9,-1,5,50,0,0,0,0,0
-menuFont=DejaVu Sans,9,-1,5,50,0,0,0,0,0
+desktopFont=DejaVu Sans,8,-1,5,50,0,0,0,0,0
+fixed=DejaVu Sans Mono,8,-1,5,50,0,0,0,0,0
+font=DejaVu Sans,8,-1,5,50,0,0,0,0,0
+menuFont=DejaVu Sans,8,-1,5,50,0,0,0,0,0
 shadeSortColumn=true
-smallestReadableFont=DejaVu Sans,8,-1,5,50,0,0,0,0,0
-taskbarFont=DejaVu Sans,9,-1,5,50,0,0,0,0,0
+smallestReadableFont=DejaVu Sans,7,-1,5,50,0,0,0,0,0
+taskbarFont=DejaVu Sans,8,-1,5,50,0,0,0,0,0
 toolBarFont=DejaVu Sans,8,-1,5,50,0,0,0,0,0
+widgetStyle=qtcurve
 
 [KDE]
 AutoSelectDelay=-1
@@ -139,3 +142,6 @@ activeFont=DejaVu Sans,9,-1,5,75,0,0,0,0,0
 activeForeground=255,255,255
 inactiveBackground=224,223,222
 inactiveForeground=20,19,18
+
+[Icons]
+Theme=oxygen
