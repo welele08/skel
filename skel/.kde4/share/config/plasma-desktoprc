@@ -1,6 +1,9 @@
 [$Version]
 update_info=plasma_popupapplet_fix_groups.upd:PlasmaPopupAppletFixGroups2
 
+[General]
+perVirtualDesktopViews=true
+
 [Applet Browser]
 used=,notifier,folderview,systemtray,digital-clock,tasks,pager,launcher,networkmanagement
 
