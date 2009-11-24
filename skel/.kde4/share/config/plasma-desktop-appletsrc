@@ -20,7 +20,7 @@ immutability=1
 location=0
 plugin=folderview
 screen=-1
-zvalue=0
+zvalue=1
 
 [Containments][1][Applets][2][Configuration]
 activity=
@@ -37,72 +37,25 @@ zvalue=0
 [Containments][1][Wallpaper][image]
 slideTimer=10
 slidepaths=/usr/share/wallpapers/
-userswallpapers=
-wallpaper=/usr/share/wallpapers/Air
-wallpapercolor=56,111,150
-wallpaperposition=0
-
-[Containments][10]
-activity=Desktop
-desktop=0
-formfactor=0
-geometry=1030,0,1024,768
-immutability=1
-location=0
-plugin=desktop
-screen=0
-wallpaperplugin=image
-wallpaperpluginmode=SingleImage
-zvalue=0
-
-[Containments][10][Applets][14]
-activity=
-desktop=-1
-formfactor=0
-geometry=18,12.0000000000046,680,155.000000000012
-immutability=1
-location=0
-plugin=folderview
-screen=-1
-zvalue=15
-
-[Containments][10][Applets][14][Configuration]
-activity=
-desktop=-1
-filter=0
-filterFiles=*
-formfactor=0
-geometry=18,12.0000000000046,680,155.000000000012
-immutability=1
-location=0
-mimeFilter=
-plugin=folderview
-screen=-1
-url=desktop:/
-zvalue=15
-
-[Containments][10][Wallpaper][image]
-slideTimer=10
-slidepaths=/usr/share/wallpapers/
 userswallpapers=/usr/share/backgrounds/sabayonlinux.jpg
 wallpaper=/usr/share/backgrounds/sabayonlinux.jpg
 wallpapercolor=56,111,150
 wallpaperposition=0
 
-[Containments][11]
+[Containments][14]
 activity=Desktop
-desktop=1
+desktop=0
 formfactor=0
 geometry=0,924,1024,768
 immutability=1
 location=0
-plugin=desktop
+plugin=folderview
 screen=0
 wallpaperplugin=image
 wallpaperpluginmode=SingleImage
 zvalue=0
 
-[Containments][11][Wallpaper][image]
+[Containments][14][Wallpaper][image]
 slideTimer=10
 slidepaths=/usr/share/wallpapers/
 userswallpapers=/usr/share/backgrounds/sabayonlinux.jpg
@@ -110,20 +63,20 @@ wallpaper=/usr/share/backgrounds/sabayonlinux.jpg
 wallpapercolor=56,111,150
 wallpaperposition=0
 
-[Containments][12]
+[Containments][15]
 activity=Desktop
 desktop=2
 formfactor=0
 geometry=1030,924,1024,768
 immutability=1
 location=0
-plugin=desktop
+plugin=folderview
 screen=0
 wallpaperplugin=image
 wallpaperpluginmode=SingleImage
 zvalue=0
 
-[Containments][12][Wallpaper][image]
+[Containments][15][Wallpaper][image]
 slideTimer=10
 slidepaths=/usr/share/wallpapers/
 userswallpapers=/usr/share/backgrounds/sabayonlinux.jpg
@@ -131,20 +84,41 @@ wallpaper=/usr/share/backgrounds/sabayonlinux.jpg
 wallpapercolor=56,111,150
 wallpaperposition=0
 
-[Containments][13]
+[Containments][16]
 activity=Desktop
 desktop=3
 formfactor=0
 geometry=0,1848,1024,768
 immutability=1
 location=0
-plugin=desktop
+plugin=folderview
 screen=0
 wallpaperplugin=image
 wallpaperpluginmode=SingleImage
 zvalue=0
 
-[Containments][13][Wallpaper][image]
+[Containments][16][Wallpaper][image]
+slideTimer=10
+slidepaths=/usr/share/wallpapers/
+userswallpapers=/usr/share/backgrounds/sabayonlinux.jpg
+wallpaper=/usr/share/backgrounds/sabayonlinux.jpg
+wallpapercolor=56,111,150
+wallpaperposition=0
+
+[Containments][17]
+activity=Desktop
+desktop=1
+formfactor=0
+geometry=1030,1848,1024,768
+immutability=1
+location=0
+plugin=folderview
+screen=0
+wallpaperplugin=image
+wallpaperpluginmode=SingleImage
+zvalue=0
+
+[Containments][17][Wallpaper][image]
 slideTimer=10
 slidepaths=/usr/share/wallpapers/
 userswallpapers=/usr/share/backgrounds/sabayonlinux.jpg
@@ -185,13 +159,13 @@ plugin=pager
 zvalue=0
 
 [Containments][3][Applets][7]
-geometry=130,4,658,35
+geometry=130,4,632,35
 immutability=1
 plugin=tasks
 zvalue=0
 
 [Containments][3][Applets][8]
-geometry=792,4,136,35
+geometry=766,4,162,35
 immutability=1
 plugin=systemtray
 zvalue=0
@@ -200,6 +174,7 @@ zvalue=0
 extenderIconName=
 extenderItemName=jobGroup
 extenderItemPosition=0
+isCollapsed=false
 isGroup=true
 sourceAppletId=8
 sourceAppletPluginName=systemtray
@@ -208,11 +183,16 @@ sourceAppletPluginName=systemtray
 extenderIconName=
 extenderItemName=completedJobsGroup
 extenderItemPosition=0
-extenderTitle=0 operazioni completate di recente:
+extenderTitle=0 Recently Completed Jobs:
 groupCollapsed=false
+isCollapsed=false
 isGroup=true
 sourceAppletId=8
 sourceAppletPluginName=systemtray
+
+[Containments][3][Applets][8][PopupApplet]
+DialogHeight=84
+DialogWidth=426
 
 [Containments][3][Applets][9]
 geometry=932,4,70,35
@@ -224,7 +204,8 @@ zvalue=0
 extenderIconName=view-pim-calendar
 extenderItemName=calendar
 extenderItemPosition=0
-extenderTitle=Calendario
+extenderTitle=Calendar
+isCollapsed=false
 sourceAppletId=9
 sourceAppletPluginName=digital-clock
 
