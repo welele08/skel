@@ -130,7 +130,6 @@ wallpaperposition=0
 activity=
 desktop=-1
 formfactor=2
-geometry=0,-45,1024,39
 immutability=1
 location=4
 plugin=panel
@@ -210,5 +209,3 @@ sourceAppletId=9
 sourceAppletPluginName=digital-clock
 
 [Containments][3][Configuration]
-maximumSize=1024,39
-minimumSize=1024,39
