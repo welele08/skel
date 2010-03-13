@@ -2,7 +2,7 @@
 update_info=kwin.upd:kde3.2Xinerama
 
 [ColorEffects:Disabled]
-Color=96,117,138
+Color=56,56,56
 ColorAmount=0
 ColorEffect=0
 ContrastAmount=0.65
@@ -13,9 +13,9 @@ IntensityEffect=2
 [ColorEffects:Inactive]
 Color=112,111,110
 ColorAmount=0.025
-ColorEffect=2
+ColorEffect=-2
 ContrastAmount=0.1
-ContrastEffect=2
+ContrastEffect=-2
 Enable=false
 IntensityAmount=0
 IntensityEffect=0
@@ -32,7 +32,7 @@ ForegroundNegative=191,3,3
 ForegroundNeutral=176,128,0
 ForegroundNormal=20,19,18
 ForegroundPositive=0,110,40
-ForegroundVisited=100,74,155
+ForegroundVisited=69,40,134
 
 [Colors:Selection]
 BackgroundAlternate=62,138,204
@@ -60,7 +60,7 @@ ForegroundNegative=191,3,3
 ForegroundNeutral=176,128,0
 ForegroundNormal=20,19,18
 ForegroundPositive=0,110,40
-ForegroundVisited=100,74,155
+ForegroundVisited=69,40,134
 
 [Colors:View]
 BackgroundAlternate=248,247,246
@@ -74,7 +74,7 @@ ForegroundNegative=191,3,3
 ForegroundNeutral=176,128,0
 ForegroundNormal=20,19,18
 ForegroundPositive=0,110,40
-ForegroundVisited=100,74,155
+ForegroundVisited=69,40,134
 
 [Colors:Window]
 BackgroundAlternate=218,217,216
@@ -88,7 +88,7 @@ ForegroundNegative=191,3,3
 ForegroundNeutral=176,128,0
 ForegroundNormal=20,19,18
 ForegroundPositive=0,110,40
-ForegroundVisited=100,74,155
+ForegroundVisited=69,40,134
 
 [General]
 BrowserApplication[$e]=!firefox
@@ -104,7 +104,7 @@ shadeSortColumn=true
 smallestReadableFont=DejaVu Sans,8,-1,5,50,0,0,0,0,0
 taskbarFont=DejaVu Sans,8,-1,5,50,0,0,0,0,0
 toolBarFont=DejaVu Sans,8,-1,5,50,0,0,0,0,0
-widgetStyle=qtcurve
+widgetStyle=oxygen
 
 [Icons]
 Theme=oxygen
@@ -113,11 +113,15 @@ Theme=oxygen
 AutoSelectDelay=-1
 ChangeCursor=true
 DoubleClickInterval=400
+ShowIconsOnPushButtons=true
 SingleClick=false
 StartDragDist=4
 StartDragTime=500
 WheelScrollLines=3
 contrast=7
+
+[KDE-Global GUI Settings]
+GraphicEffectsLevel=6
 
 [KFileDialog Settings]
 Automatically select filename extension=true
@@ -138,6 +142,10 @@ View Style=Simple
 
 [KShortcutsDialog Settings]
 Dialog Size=600,480
+
+[Toolbar style]
+ToolButtonStyle=TextBesideIcon
+ToolButtonStyleOtherToolbars=TextBesideIcon
 
 [WM]
 activeBackground=96,148,207
