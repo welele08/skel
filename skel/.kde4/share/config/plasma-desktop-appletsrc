@@ -2,7 +2,6 @@
 activity=
 desktop=-1
 formfactor=0
-geometry=0,0,1024,768
 immutability=1
 location=0
 plugin=desktop
@@ -245,5 +244,3 @@ sourceAppletPluginName=digital-clock
 Order=6
 
 [Containments][3][Configuration]
-maximumSize=1024,35
-minimumSize=1024,35
