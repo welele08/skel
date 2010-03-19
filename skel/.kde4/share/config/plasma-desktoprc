@@ -28,6 +28,10 @@ Height 900=599
 Width 1024=409
 Width 1440=404
 
+[PlasmaViews][10]
+Offset=0
+panelVisibility=0
+
 [PlasmaViews][2]
 Alignment=132
 Offset=0

@@ -1,55 +1,11 @@
-[Containments][1]
-activity=
-desktop=-1
-formfactor=0
-immutability=1
-location=0
-plugin=desktop
-screen=0
-wallpaperplugin=image
-wallpaperpluginmode=SingleImage
-zvalue=0
-
-[Containments][1][Applets][2]
-activity=
-desktop=-1
-formfactor=0
-geometry=6,6,600,400
-immutability=1
-location=0
-plugin=folderview
-screen=-1
-zvalue=1
-
-[Containments][1][Applets][2][Configuration]
-activity=
-desktop=-1
-formfactor=0
-geometry=6,6,600,400
-immutability=1
-location=0
-plugin=folderview
-screen=-1
-url=desktop:/
-zvalue=0
-
-[Containments][1][Wallpaper][image]
-slideTimer=10
-slidepaths=/usr/share/wallpapers/
-userswallpapers=/usr/share/backgrounds/sabayonlinux.jpg
-wallpaper=/usr/share/backgrounds/sabayonlinux.jpg
-wallpapercolor=56,111,150
-wallpaperposition=0
-
 [Containments][14]
 activity=Desktop
-desktop=0
+desktop=-1
 formfactor=0
-geometry=1030,0,1024,768
 immutability=1
 location=0
 plugin=folderview
-screen=0
+screen=-1
 wallpaperplugin=image
 wallpaperpluginmode=SingleImage
 zvalue=0
@@ -64,9 +20,8 @@ wallpaperposition=0
 
 [Containments][15]
 activity=Desktop
-desktop=2
+desktop=-1
 formfactor=0
-geometry=0,924,1024,768
 immutability=1
 location=0
 plugin=folderview
@@ -85,13 +40,12 @@ wallpaperposition=0
 
 [Containments][16]
 activity=Desktop
-desktop=3
+desktop=-1
 formfactor=0
-geometry=1030,924,1024,768
 immutability=1
 location=0
 plugin=folderview
-screen=0
+screen=-1
 wallpaperplugin=image
 wallpaperpluginmode=SingleImage
 zvalue=0
@@ -106,13 +60,12 @@ wallpaperposition=0
 
 [Containments][17]
 activity=Desktop
-desktop=1
+desktop=-1
 formfactor=0
-geometry=0,1848,1024,768
 immutability=1
 location=0
 plugin=folderview
-screen=0
+screen=-1
 wallpaperplugin=image
 wallpaperpluginmode=SingleImage
 zvalue=0
@@ -125,11 +78,51 @@ wallpaper=/usr/share/backgrounds/sabayonlinux.jpg
 wallpapercolor=56,111,150
 wallpaperposition=0
 
+[Containments][20]
+activity=
+desktop=-1
+formfactor=0
+immutability=1
+location=0
+plugin=folderview
+screen=-1
+wallpaperplugin=image
+wallpaperpluginmode=SingleImage
+zvalue=0
+
+[Containments][20][Applets][2]
+activity=
+desktop=-1
+formfactor=0
+immutability=1
+location=0
+plugin=folderview
+screen=-1
+zvalue=1
+
+[Containments][20][Applets][2][Configuration]
+activity=
+desktop=-1
+formfactor=0
+immutability=1
+location=0
+plugin=folderview
+screen=-1
+url=desktop:/
+zvalue=0
+
+[Containments][20][Wallpaper][image]
+slideTimer=10
+slidepaths=/usr/share/wallpapers/
+userswallpapers=/usr/share/backgrounds/sabayonlinux.jpg
+wallpaper=/usr/share/backgrounds/sabayonlinux.jpg
+wallpapercolor=56,111,150
+wallpaperposition=0
+
 [Containments][3]
 activity=
 desktop=-1
 formfactor=2
-geometry=0,-41,1024,35
 immutability=1
 location=4
 plugin=panel
@@ -137,7 +130,6 @@ screen=0
 zvalue=150
 
 [Containments][3][Applets][18]
-geometry=699,3,32,32
 immutability=1
 plugin=battery
 zvalue=0
@@ -147,6 +139,7 @@ extenderIconName=battery
 extenderItemName=powermanagement
 extenderItemPosition=0
 extenderTitle=Power Management
+isCollapsed=false
 sourceAppletId=18
 sourceAppletPluginName=battery
 
@@ -154,7 +147,6 @@ sourceAppletPluginName=battery
 Order=4
 
 [Containments][3][Applets][4]
-geometry=0,3,32,32
 immutability=1
 plugin=launcher
 zvalue=0
@@ -166,7 +158,6 @@ Order=0
 global=Alt+F1
 
 [Containments][3][Applets][5]
-geometry=663,3,32,32
 immutability=1
 plugin=notifier
 zvalue=0
@@ -175,7 +166,6 @@ zvalue=0
 Order=3
 
 [Containments][3][Applets][6]
-geometry=36,3,45,32
 immutability=1
 plugin=pager
 zvalue=0
@@ -184,7 +174,6 @@ zvalue=0
 Order=1
 
 [Containments][3][Applets][7]
-geometry=85,3,574,32
 immutability=1
 plugin=tasks
 zvalue=0
@@ -193,7 +182,6 @@ zvalue=0
 Order=2
 
 [Containments][3][Applets][8]
-geometry=735,3,199,32
 immutability=1
 plugin=systemtray
 zvalue=0
@@ -222,11 +210,10 @@ sourceAppletPluginName=systemtray
 Order=5
 
 [Containments][3][Applets][8][PopupApplet]
-DialogHeight=43
-DialogWidth=426
+DialogHeight=8
+DialogWidth=0
 
 [Containments][3][Applets][9]
-geometry=938,3,64,32
 immutability=1
 plugin=digital-clock
 zvalue=0
@@ -242,5 +229,3 @@ sourceAppletPluginName=digital-clock
 
 [Containments][3][Applets][9][LayoutInformation]
 Order=6
-
-[Containments][3][Configuration]
