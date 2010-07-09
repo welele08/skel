@@ -33,6 +33,13 @@
                    NC:value="mailto">
     <NC:handlerProp RDF:resource="urn:scheme:handler:mailto"/>
   </RDF:Description>
+  <RDF:Description RDF:about="urn:scheme:externalApplication:file"
+                   NC:prettyName="Automatic File Opener"
+                   NC:path="/usr/bin/xdg-open" />
+  <RDF:Description RDF:about="urn:scheme:file"
+                   NC:value="file">
+    <NC:handlerProp RDF:resource="urn:scheme:handler:file"/>
+  </RDF:Description>
   <RDF:Description RDF:about="urn:scheme:handler:mailto"
                    NC:alwaysAsk="true">
     <NC:possibleApplication RDF:resource="urn:handler:web:https://mail.google.com/mail/?extsrc=mailto&amp;url=%s"/>
