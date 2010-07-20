@@ -7,6 +7,7 @@
 	<entry name="navigation_window_saved_geometry" mtime="1244413998" type="string">
 		<stringvalue>800x550+172+125</stringvalue>
 	</entry>
+	<entry name="always_use_location_entry" mtime="1212958817" type="bool" value="true"/>
 	<entry name="always_use_browser" mtime="1212958817" type="bool" value="true"/>
 	<entry name="desktop_font" mtime="1244414144" type="string">
 		<stringvalue>DejaVu Sans Semi-Condensed 9</stringvalue>
