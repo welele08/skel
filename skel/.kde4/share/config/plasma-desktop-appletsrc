@@ -129,23 +129,6 @@ plugin=panel
 screen=0
 zvalue=150
 
-[Containments][3][Applets][18]
-immutability=1
-plugin=battery
-zvalue=0
-
-[Containments][3][Applets][18][Configuration][ExtenderItems][7]
-extenderIconName=battery
-extenderItemName=powermanagement
-extenderItemPosition=0
-extenderTitle=Power Management
-isCollapsed=false
-sourceAppletId=18
-sourceAppletPluginName=battery
-
-[Containments][3][Applets][18][LayoutInformation]
-Order=4
-
 [Containments][3][Applets][4]
 immutability=1
 plugin=launcher
@@ -156,14 +139,6 @@ Order=0
 
 [Containments][3][Applets][4][Shortcuts]
 global=Alt+F1
-
-[Containments][3][Applets][5]
-immutability=1
-plugin=notifier
-zvalue=0
-
-[Containments][3][Applets][5][LayoutInformation]
-Order=3
 
 [Containments][3][Applets][6]
 immutability=1
