@@ -38,7 +38,9 @@
       <property name="button-title" type="string" value="Xfce Menu"/>
       <property name="custom-menu" type="bool" value="false"/>
     </property>
-    <property name="plugin-2" type="string" value="separator"/>
+    <property name="plugin-2" type="string" value="separator">
+      <property name="style" type="uint" value="1"/>
+    </property>
     <property name="plugin-3" type="string" value="showdesktop"/>
     <property name="plugin-4" type="string" value="launcher">
       <property name="items" type="array">
@@ -65,11 +67,11 @@
       <property name="include-all-workspaces" type="bool" value="false"/>
       <property name="flat-buttons" type="bool" value="false"/>
     </property>
-    <property name="plugin-9" type="string" value="separator"/>
-    <property name="plugin-10" type="string" value="separator"/>
     <property name="plugin-11" type="string" value="systray">
       <property name="names-visible" type="array">
         <value type="string" value="networkmanager applet"/>
+        <value type="string" value="bluetooth"/>
+        <value type="string" value="bluetooth applet"/>
       </property>
     </property>
     <property name="plugin-12" type="string" value="pager">
