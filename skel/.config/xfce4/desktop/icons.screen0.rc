@@ -14,30 +14,6 @@ col=1
 row=1
 col=1
 
-[USB2]
-row=4
-col=0
-
-[367 GB Filesystem]
-row=5
-col=0
-
-[727 MB Filesystem]
-row=0
-col=0
-
-[System Reserved]
-row=6
-col=0
-
-[FreeAgent Drive]
-row=7
-col=0
-
-[751 GB Filesystem]
-row=8
-col=0
-
 [Trash]
 row=1
 col=0
