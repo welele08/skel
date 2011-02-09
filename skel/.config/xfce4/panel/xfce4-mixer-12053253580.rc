@@ -1,7 +1,0 @@
-[mixer-plugin]
-LauncherRunInTerminal=false
-LauncherUseStartupNotification=false
-Device=default
-LauncherCommand=xfce4-mixer
-MasterControl=Master,0
-
