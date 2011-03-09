@@ -1,56 +1,12 @@
 [Get Live Help]
-row=3
-col=1
+row=1
+col=0
 
 [Donate to Sabayon]
-row=2
-col=1
+row=0
+col=0
 
 [Install to Hard Drive]
-row=4
-col=1
-
-[System Reserved]
-row=3
-col=0
-
-[751 GB Filesystem]
-row=5
-col=0
-
-[367 GB Filesystem]
-row=4
-col=0
-
-[53 GB Filesystem]
-row=6
-col=0
-
-[54 GB Filesystem]
-row=1
-col=1
-
-[727 MB Filesystem]
-row=8
-col=0
-
-[FreeAgent Drive]
-row=7
-col=0
-
-[USB2]
-row=0
-col=1
-
-[Trash]
 row=2
-col=0
-
-[File System]
-row=1
-col=0
-
-[Home]
-row=0
 col=0
 
