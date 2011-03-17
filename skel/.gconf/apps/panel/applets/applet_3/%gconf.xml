@@ -6,7 +6,7 @@
 	<entry name="object_type" mtime="1212958981" schema="/schemas/apps/panel/objects/object_type" type="string">
 		<stringvalue>bonobo-applet</stringvalue>
 	</entry>
-	<entry name="panel_right_stick" mtime="1244413978" schema="/schemas/apps/panel/objects/panel_right_stick" type="bool" value="false"/>
+	<entry name="panel_right_stick" mtime="1300351978" schema="/schemas/apps/panel/objects/panel_right_stick" type="bool" value="true"/>
 	<entry name="use_menu_path" mtime="1212958981" schema="/schemas/apps/panel/objects/use_menu_path"/>
 	<entry name="launcher_location" mtime="1212958981" schema="/schemas/apps/panel/objects/launcher_location"/>
 	<entry name="custom_icon" mtime="1212958981" schema="/schemas/apps/panel/objects/custom_icon"/>
