@@ -14,7 +14,7 @@ Global {
     setdocktype=1
     setpartialstrut=1
     usefontcolor=1
-    fontcolor=#ffffff
+    fontcolor=#000000
     background=0
     backgroundfile=/usr/share/lxpanel/images/background.png
 }
@@ -110,14 +110,15 @@ Plugin {
 }
 
 Plugin {
+    type = volumealsa
+}
+
+Plugin {
     type = dclock
     Config {
         ClockFmt=%R
         TooltipFmt=%A %x
         BoldFont=0
+        IconOnly=0
     }
-}
-
-Plugin {
-    type = volumealsa
 }
