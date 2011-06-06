@@ -118,3 +118,6 @@ Plugin {
     }
 }
 
+Plugin {
+    type = volumealsa
+}
