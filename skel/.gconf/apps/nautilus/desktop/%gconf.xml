@@ -6,6 +6,6 @@
         </entry>
         <entry name="home_icon_visible" mtime="1212959988" type="bool" value="false">
         </entry>
-        <entry name="trash_icon_visible" mtime="1212959975" type="bool" value="true">
+        <entry name="trash_icon_visible" mtime="1212959975" type="bool" value="false">
         </entry>
 </gconf>
