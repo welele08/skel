@@ -3,7 +3,7 @@
 	<entry name="sidebar_width" mtime="1275653578" type="int" value="267"/>
 	<entry name="background_set" mtime="1268709577" type="bool" value="true"/>
 	<entry name="background_color" mtime="1268709577" type="string">
-		<stringvalue>#323232</stringvalue>
+		<stringvalue>#FFFFFF</stringvalue>
 	</entry>
 	<entry name="show_desktop" mtime="1268703858" type="bool" value="true"/>
 	<entry name="always_use_location_entry" mtime="1271941207" type="bool" value="true"/>
@@ -19,6 +19,6 @@
 	</entry>
 	<entry name="always_use_browser" mtime="1212958817" type="bool" value="true"/>
 	<entry name="desktop_font" mtime="1244414144" type="string">
-		<stringvalue>DejaVu Sans Semi-Condensed 9</stringvalue>
+		<stringvalue>DejaVu Sans 8</stringvalue>
 	</entry>
 </gconf>
