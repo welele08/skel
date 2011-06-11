@@ -6,9 +6,6 @@
 	<entry name="color" mtime="1127133772" schema="/schemas/apps/panel/toplevels/background/color"/>
 	<entry name="fit" mtime="1127133772" schema="/schemas/apps/panel/toplevels/background/fit"/>
 	<entry name="type" mtime="1244414017" schema="/schemas/apps/panel/toplevels/background/type" type="string">
-		<stringvalue>image</stringvalue>
-	</entry>
-	<entry name="image" mtime="1244414019" schema="/schemas/apps/panel/toplevels/background/image" type="string">
-		<stringvalue>/usr/share/backgrounds/gnome-toolbar.png</stringvalue>
+		<stringvalue>gtk</stringvalue>
 	</entry>
 </gconf>
