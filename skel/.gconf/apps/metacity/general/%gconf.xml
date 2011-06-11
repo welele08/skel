@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <gconf>
 	<entry name="titlebar_font" mtime="1307831575" type="string">
 		<stringvalue>Sans Bold 8</stringvalue>
