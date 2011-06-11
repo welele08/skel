@@ -1,10 +1,8 @@
-<?xml version="1.0"?>
 <gconf>
-	<entry name="compositing_manager" mtime="1284725400" type="bool" value="true"/>
-	<entry name="titlebar_font" mtime="1244414148" type="string">
-		<stringvalue>DejaVu Sans Bold Semi-Condensed 9</stringvalue>
+	<entry name="titlebar_font" mtime="1307831575" type="string">
+		<stringvalue>Sans Bold 8</stringvalue>
 	</entry>
-	<entry name="theme" mtime="1244414091" type="string">
-		<stringvalue>MurrineCleanGlass</stringvalue>
+	<entry name="theme" mtime="1307831532" type="string">
+		<stringvalue>Equinox Evolution Squared</stringvalue>
 	</entry>
 </gconf>
