@@ -31,6 +31,12 @@
 # Change your keymap:
 # xmodmap ~/.Xmodmap
 
+# Sabayon customization
+# Setup GTK theme if unset
+if [ ! -f "~/.gtkrc-2.0" ]; then
+	export GTK2_RC_FILES="~/.fluxbox/gtkrc"
+fi
+
 # This is a live install hook
 # Startup the installer?
 # installer --fullscreen &
