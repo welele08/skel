@@ -1,9 +1,10 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="titlebar_font" mtime="1307831575" type="string">
-		<stringvalue>Sans Bold 8</stringvalue>
+	<entry name="focus_mode" mtime="1312030814" type="string">
+		<stringvalue>click</stringvalue>
 	</entry>
-	<entry name="theme" mtime="1307831532" type="string">
+	<entry name="theme" mtime="1312031204" type="string">
 		<stringvalue>Equinox Evolution Squared</stringvalue>
 	</entry>
+	<entry name="num_workspaces" mtime="1312031214" type="int" value="1"/>
 </gconf>

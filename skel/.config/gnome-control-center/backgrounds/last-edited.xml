@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>sabayonlinux.jpg</name>
+    <shade_type>solid</shade_type>
+    <source_url>file:///usr/share/backgrounds/sabayonlinux.jpg</source_url>
+  </wallpaper>
+</wallpapers>
