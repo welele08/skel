@@ -2,8 +2,10 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <name>sabayonlinux.jpg</name>
+    <name>sabayon.org</name>
+    <filename>/usr/share/backgrounds/sabayonlinux.jpg</filename>
+    <options>zoom</options>
     <shade_type>solid</shade_type>
-    <source_url>file:///usr/share/backgrounds/sabayonlinux.jpg</source_url>
+    <pcolor>#3465a4</pcolor>
   </wallpaper>
 </wallpapers>
