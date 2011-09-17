@@ -16,6 +16,9 @@
         <value type="int" value="6"/>
       </property>
       <property name="size" type="uint" value="22"/>
+      <property name="background-alpha" type="uint" value="60"/>
+      <property name="enter-opacity" type="uint" value="100"/>
+      <property name="leave-opacity" type="uint" value="100"/>
     </property>
     <property name="panel-1" type="empty">
       <property name="position" type="string" value="p=12;x=218;y=1061"/>
@@ -47,6 +50,7 @@
     <property name="plugin-5" type="string" value="clock">
       <property name="mode" type="uint" value="4"/>
       <property name="show-seconds" type="bool" value="true"/>
+      <property name="show-frame" type="bool" value="false"/>
     </property>
     <property name="plugin-6" type="string" value="systray">
       <property name="names-visible" type="array">
