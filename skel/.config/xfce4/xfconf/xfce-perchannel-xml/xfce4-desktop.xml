@@ -20,4 +20,7 @@
     <property name="font-size" type="double" value="10.000000"/>
     <property name="icon-size" type="uint" value="32"/>
   </property>
+  <property name="desktop-menu" type="empty">
+    <property name="show" type="bool" value="false"/>
+  </property>
 </channel>
