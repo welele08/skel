@@ -79,7 +79,6 @@ ScrollingOnKeystroke=TRUE
 ScrollingSingleLine=TRUE
 ShortcutsNoMenukey=FALSE
 ShortcutsNoMnemonics=FALSE
-TitleInitial=Terminale
 TitleMode=TERMINAL_TITLE_APPEND
 Term=xterm
 VteWorkaroundTitleBug=TRUE
