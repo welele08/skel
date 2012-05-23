@@ -1,8 +1,11 @@
+[InactiveShadow]
+Size=60
+
 [Style]
 DrawToolBarItemSeparator=true
 DrawTriangularExpander=false
 
 [Windeco]
-BlendTitlebarColors=true
-ShowStripes=true
+CenterTitleOnFullWidth=false
 TitleAlignment=Left
+UseOxygenShadows=false
