@@ -1,2 +1,6 @@
+# Set "gnome" as default, since tango might not contain all the needed
+# icon symbols for all the apps (for eg, Midori)
+gtk-fallback-icon-theme="gnome"
+
 include "/usr/share/themes/Equinox Evolution Light/gtk-2.0/gtkrc"
 include "/etc/gtk-2.0/gtkrc"
