@@ -3,7 +3,7 @@ update_info=kwin.upd:kde3.2Xinerama
 
 [General]
 ColorScheme=Default
-BrowserApplication[$e]=!chromium
+BrowserApplication=google-chrome.desktop
 UseSystemBell=false
 XftAntialias=true
 XftHintStyle=hintmedium
