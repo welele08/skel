@@ -1,0 +1,62 @@
+[Aliases]
+AliasList=mail /exec mail,media /exec media,audio /exec media audio,video /exec media video,sayclip /exec sayclip,cmd /exec cmd,tinyurl /exec tinyurl,gauge /exec gauge,bug /exec bug,sysinfo /exec sysinfo,uptime /exec uptime,fortune /exec fortune
+
+[Channel 0]
+Name=sabayon
+Password=
+
+[DCC Settings]
+PanelSplitter=AAAA/wAAAAEAAAACAAAASgAAAPMB/////wEAAAACAA==
+
+[Identity 0]
+AuthType=nickserv
+AutomaticAway=false
+AutomaticUnaway=false
+AwayInactivity=10
+AwayMessage=
+AwayNick=
+AwayReason=Gone away for now
+Bot=nickserv
+Codec=UTF-8
+Ident=sabayonuser
+InsertRememberLineOnAway=false
+KickReason=User terminated!
+Name=Default Identity
+Nicknames=sabayonuser,sabayonuser_,sabayonuser__
+NickservCommand=identify
+PartReason=Konversation terminated!
+Password=
+PemClientCertFile=
+PreShellCommand=
+QuitReason=Konversation terminated!
+Realname=Sabayon
+ReturnMessage=
+SaslAccount=
+ShowAwayMessage=false
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGrAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Server 0]
+BypassProxy=false
+Password=
+Port=8001
+SSLEnabled=false
+Server=chat.freenode.net
+
+[ServerGroup 0]
+AutoConnect=false
+AutoJoinChannels=Channel 0
+ChannelHistory=
+ConnectCommands=
+EnableNotifications=true
+Expanded=false
+Identity=Default Identity
+Name=freenode
+NotifyList=
+ServerList=Server 0
+
+[ServerListDialog]
+ServerListHeaderState=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01Ù\x00\x00\x00\x03\x00\x01\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00»ˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00»\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00»\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x03Ë\x01
+Size=533,274
