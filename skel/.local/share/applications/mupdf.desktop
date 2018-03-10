@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=MuPDF
+GenericName=PDF file viewer
+Exec=mupdf %f
+TryExec=mupdf
+Icon=mupdf
+Terminal=false
+Type=Application
+# Set because the installed one does not launch from menu (expects a file
+# name).
+NoDisplay=true
