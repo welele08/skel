@@ -1,3 +1,3 @@
-WebBrowser=midori
-FileManager=Thunar
+FileManager=nautilus
 
+WebBrowser=chromium-browser-chromium

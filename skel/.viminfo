@@ -1,0 +1,292 @@
+# Ce fichier viminfo a été généré par Vim 7.4.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Dernier motif de recherche  :
+~MSle0~/Scrollbar
+
+# Dernières chaînes de substitution :
+$
+
+# Historique ligne de commande (chronologie décroissante) :
+:wq
+:q
+:wq!
+:q!
+
+# Historique chaîne de recherche (chronologie décroissante) :
+?/Scrollbar
+?/.window-fr
+?/.titlebar
+?/scrollbar
+?/scroll
+?/interacti
+?/SPLA
+? @$
+?/plym
+?/memory
+?/.union
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Registres :
+"0	LINE	0
+	pkexec ls && xfce4-terminal&
+""1	LINE	0
+	  <bookmark href="file:///run/media/candidat/UBUNTU/poly04.pdf" added="2016-11-07T10:01:51Z" modified="2016-11-07T10:01:51Z" visited="2016-11-07T10:01:51Z">
+	    <info>
+	      <metadata owner="http://freedesktop.org">
+	        <mime:mime-type type="application/pdf"/>
+	        <bookmark:applications>
+	          <bookmark:application name="Visionneur de documents" exec="&apos;evince %u&apos;" modified="2016-11-07T10:01:51Z" count="2"/>
+	        </bookmark:applications>
+	      </metadata>
+	    </info>
+	  </bookmark>
+"2	LINE	0
+	  <bookmark href="file:///run/media/candidat/UBUNTU/attestation%20emploi.pdf" added="2016-11-07T10:01:15Z" modified="2016-11-07T10:01:34Z" visited="2016-11-07T10:01:16Z">
+	    <info>
+	      <metadata owner="http://freedesktop.org">
+	        <mime:mime-type type="application/pdf"/>
+	        <bookmark:applications>
+	          <bookmark:application name="Visionneur de documents" exec="&apos;evince %u&apos;" modified="2016-11-07T10:01:34Z" count="3"/>
+	        </bookmark:applications>
+	      </metadata>
+	    </info>
+	  </bookmark>
+"3	LINE	0
+	pkexec ls && xfce4-terminal&
+"-	CHAR	0
+	#
+
+# Marques dans le fichier :
+'0  6  0  ~/.local/share/recently-used.xbel
+'1  204  1  /usr/share/themes/Ambiance-Flat-Aqua/gtk-2.0/gtkrc
+'2  1262  0  /usr/share/themes/Ambiance-Flat-Aqua/gtk-3.0/gtk-widgets.css
+'3  232  0  /usr/share/themes/Ambiance-Flat-Aqua/gtk-2.0/gtkrc
+'4  1  0  ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml
+'5  1  5  ~/.hidden
+'6  16  1  /etc/rc.conf
+'7  133  0  /etc/genkernel.conf
+'8  1  2  /etc/portage/package.mask/plymouth
+'9  1  0  /etc/portage/make.conf
+
+# Liste de sauts (le plus récent en premier) :
+-'  6  0  ~/.local/share/recently-used.xbel
+-'  1  0  ~/.local/share/recently-used.xbel
+-'  204  1  /usr/share/themes/Ambiance-Flat-Aqua/gtk-2.0/gtkrc
+-'  232  1  /usr/share/themes/Ambiance-Flat-Aqua/gtk-2.0/gtkrc
+-'  1262  0  /usr/share/themes/Ambiance-Flat-Aqua/gtk-3.0/gtk-widgets.css
+-'  544  2  /usr/share/themes/Ambiance-Flat-Aqua/gtk-3.0/gtk-widgets.css
+-'  587  0  /usr/share/themes/Ambiance-Flat-Aqua/gtk-3.0/gtk-widgets.css
+-'  1  0  /usr/share/themes/Ambiance-Flat-Aqua/gtk-3.0/gtk-widgets.css
+-'  116  2  /usr/share/themes/Ambiance-Flat-Aqua/gtk-2.0/gtkrc
+-'  109  11  /usr/share/themes/Ambiance-Flat-Aqua/gtk-2.0/gtkrc
+-'  680  41  /usr/share/themes/Ambiance-Flat-Aqua/gtk-2.0/gtkrc
+-'  679  45  /usr/share/themes/Ambiance-Flat-Aqua/gtk-2.0/gtkrc
+-'  678  10  /usr/share/themes/Ambiance-Flat-Aqua/gtk-2.0/gtkrc
+-'  619  30  /usr/share/themes/Ambiance-Flat-Aqua/gtk-2.0/gtkrc
+-'  618  30  /usr/share/themes/Ambiance-Flat-Aqua/gtk-2.0/gtkrc
+-'  617  28  /usr/share/themes/Ambiance-Flat-Aqua/gtk-2.0/gtkrc
+-'  477  0  /usr/share/themes/Ambiance-Flat-Aqua/gtk-2.0/gtkrc
+-'  418  2  /usr/share/themes/Ambiance-Flat-Aqua/gtk-2.0/gtkrc
+-'  1  0  /usr/share/themes/Ambiance-Flat-Aqua/gtk-2.0/gtkrc
+-'  1  0  ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml
+-'  1  5  ~/.hidden
+-'  16  1  /etc/rc.conf
+-'  1  0  /etc/rc.conf
+-'  133  0  /etc/genkernel.conf
+-'  16  0  /etc/genkernel.conf
+-'  1  0  /etc/genkernel.conf
+-'  1  2  /etc/portage/package.mask/plymouth
+-'  1  0  /etc/portage/package.mask
+-'  1  0  /etc/portage/make.conf
+-'  1  0  /mnt/gentoo/etc/default/grub
+-'  1  0  /mnt/gentoo/etc/plymouth/plymouthd.conf
+-'  293  0  /mnt/gentoo/etc/genkernel.conf
+-'  1  0  /mnt/gentoo/etc/genkernel.conf
+-'  558  26  /mnt/gentoo/etc/portage/package.use
+-'  560  51  /mnt/gentoo/etc/portage/package.use
+-'  559  23  /mnt/gentoo/etc/portage/package.use
+-'  1  0  /mnt/gentoo/etc/portage/package.use
+-'  1  0  /mnt/gentoo/etc/portage/make.conf
+-'  142  1  /etc/init.d/xdm
+-'  1  0  /etc/init.d/xdm
+-'  56  2  /usr/share/mime/application/vnd.adobe.flash.movie.xml
+-'  1  0  /usr/share/mime/application/vnd.adobe.flash.movie.xml
+-'  1  0  /usr/bin/capes/terminalcapes.sh
+-'  29  10  ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml
+-'  3  20  ~/terminal.sh
+-'  2  0  ~/rien.sh
+-'  1  0  ~/rien.sh
+-'  1  0  ~/terminal.sh
+-'  11  0  ~/Documents/a enlever
+-'  21  0  /usr/bin/capes/capture.sh
+-'  1  0  /usr/bin/capes/capture.sh
+-'  1  0  ~/.config/XfceThemeManager/custom/Capes.db
+-'  1  0  ~/Documents/a enlever
+-'  6  11  ~/test_shell/test.sh
+-'  3  0  ~/test_shell/test.sh
+-'  5  1  ~/test_shell/test.sh
+-'  1  0  ~/test_shell/test.sh
+-'  27  0  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/etc/capes.scripts
+-'  1  0  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/etc/capes.scripts
+-'  990  19  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  771  83  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  451  14  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  280  3  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  275  54  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  272  18  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  271  1  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  993  35  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  992  16  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  942  17  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  941  1  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  940  25  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  937  16  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  936  23  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  935  8  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  859  9  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  858  7  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  830  52  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  820  10  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  816  75  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  813  17  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  783  2  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  779  1  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  1  0  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  990  19  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  771  83  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  451  14  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  280  3  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  275  54  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  272  18  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  271  1  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  993  35  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  992  16  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  942  17  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  941  1  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  940  25  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  937  16  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  936  23  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  935  8  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+-'  859  9  /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~/.local/share/recently-used.xbel
+	"	6	0
+	.	6	0
+	+	6	0
+
+> /usr/share/themes/Ambiance-Flat-Aqua/gtk-2.0/gtkrc
+	"	204	1
+
+> /usr/share/themes/Ambiance-Flat-Aqua/gtk-3.0/gtk-widgets.css
+	"	1262	0
+
+> ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml
+	"	1	0
+
+> ~/.hidden
+	"	1	5
+	^	1	6
+	.	1	5
+	+	1	5
+
+> /etc/rc.conf
+	"	16	1
+	.	16	0
+	+	16	0
+
+> /etc/genkernel.conf
+	"	133	0
+
+> /etc/portage/package.mask/plymouth
+	"	1	2
+
+> /etc/portage/make.conf
+	"	1	0
+
+> /mnt/gentoo/etc/default/grub
+	"	1	0
+
+> /mnt/gentoo/etc/plymouth/plymouthd.conf
+	"	1	0
+
+> /mnt/gentoo/etc/genkernel.conf
+	"	293	0
+
+> /mnt/gentoo/etc/portage/package.use
+	"	558	26
+
+> /mnt/gentoo/etc/portage/make.conf
+	"	1	0
+
+> /etc/init.d/xdm
+	"	142	1
+
+> /usr/share/mime/application/vnd.adobe.flash.movie.xml
+	"	56	2
+
+> /usr/bin/capes/terminalcapes.sh
+	"	1	0
+
+> ~/terminal.sh
+	"	3	20
+	^	3	21
+	.	3	21
+	+	3	21
+
+> ~/rien.sh
+	"	2	0
+	.	3	0
+	+	3	0
+
+> ~/Documents/a enlever
+	"	11	0
+	^	11	19
+	.	11	18
+	+	6	5
+	+	5	38
+	+	8	62
+	+	9	21
+	+	10	6
+	+	11	18
+
+> /usr/bin/capes/capture.sh
+	"	21	0
+
+> ~/.config/XfceThemeManager/custom/Capes.db
+	"	1	0
+
+> ~/test_shell/test.sh
+	"	6	11
+	^	6	12
+	.	6	11
+	+	6	3
+	+	3	24
+	+	5	36
+	+	3	24
+	+	5	3
+	+	6	7
+	+	5	39
+	+	6	11
+	+	3	40
+	+	7	0
+	+	6	11
+
+> /mnt/docs/capes/clecapes/building clef capes/initrd_perso/etc/capes.scripts
+	"	27	0
+
+> /mnt/docs/capes/clecapes/building clef capes/initrd_perso/init
+	"	990	19

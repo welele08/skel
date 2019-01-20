@@ -4,25 +4,64 @@
   <property name="backdrop" type="empty">
     <property name="screen0" type="empty">
       <property name="monitor0" type="empty">
-        <property name="image-path" type="string" value="/usr/share/backgrounds/sabayonlinux.png"/>
-        <property name="last-image" type="string" value="/usr/share/backgrounds/sabayonlinux.png"/>
-        <property name="last-single-image" type="string" value="/usr/share/backgrounds/sabayonlinux.png"/>
+        <property name="workspace0" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper.jpg"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper.jpg"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper.jpg"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper.jpg"/>
+        </property>
+        <property name="brightness" type="int" value="-1076001984"/>
+        <property name="saturation" type="double" value="0.000000"/>
+      </property>
+      <property name="monitorLVDS1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper.jpg"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper.jpg"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper.jpg"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/wallpaper.jpg"/>
+        </property>
       </property>
     </property>
   </property>
   <property name="desktop-icons" type="empty">
     <property name="file-icons" type="empty">
       <property name="show-filesystem" type="bool" value="false"/>
+      <property name="show-trash" type="bool" value="false"/>
       <property name="show-removable" type="bool" value="false"/>
       <property name="show-home" type="bool" value="false"/>
-      <property name="show-trash" type="bool" value="false"/>
     </property>
-    <property name="use-custom-font-size" type="bool" value="false"/>
-    <property name="font-size" type="double" value="10.000000"/>
-    <property name="icon-size" type="uint" value="48"/>
     <property name="style" type="int" value="2"/>
   </property>
-  <property name="desktop-menu" type="empty">
-    <property name="show" type="bool" value="true"/>
+  <property name="last" type="empty">
+    <property name="window-width" type="int" value="856"/>
+    <property name="window-height" type="int" value="544"/>
   </property>
 </channel>
