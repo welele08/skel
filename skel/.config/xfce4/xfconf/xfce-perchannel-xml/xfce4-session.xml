@@ -28,5 +28,8 @@
   </property>
   <property name="shutdown" type="empty">
     <property name="LockScreen" type="bool" value="false"/>
+    <property name="ShowSuspend" type="bool" value="false"/>
+    <property name="ShowHibernate" type="bool" value="false"/>
+    <property name="ShowSwitchUser" type="bool" value="false"/>
   </property>
 </channel>
