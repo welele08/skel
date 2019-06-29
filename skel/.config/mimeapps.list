@@ -1,1 +1,8 @@
+[Added Associations]
+application/pdf=atril.desktop;
+x-scheme-handler/http=exo-web-browser.desktop
+x-scheme-handler/https=exo-web-browser.desktop
+
+[Default Applications]
 application/pdf=atril.desktop
+
