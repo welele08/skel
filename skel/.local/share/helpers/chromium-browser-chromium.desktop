@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Chromium
+Type=X-XFCE-Helper
+Comment=Open-source version of Google Chrome web browser
+X-XFCE-Category=WebBrowser
+X-XFCE-Commands=chromium-browser
+X-XFCE-CommandsWithParameter=chromium-browser "%s"
+Exec=chromium-browser %U
+TryExec=chromium-browser
+Icon=chromium-browser
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;x-scheme-handler/mailto;x-scheme-handler/webcal;
+StartupWMClass=chromium-browser
